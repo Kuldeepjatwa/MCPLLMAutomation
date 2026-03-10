@@ -1,0 +1,6 @@
+1. Cursor related 
+
+       Downloaded from internet 
+       I installing facing issue with Admin Credentials not accepting so to solve it i add "admin previliage" in focus as shown in screen uploaded as 1.png.
+
+       
